@@ -1,0 +1,7 @@
+str=str(input())
+a=str.count('a')
+b=str.count('i')
+c=str.count('u')
+d=str.count('e')
+e=str.count('o')
+print (a+b+c+d+e)
